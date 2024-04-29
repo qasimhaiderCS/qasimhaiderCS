@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qasimhaidercs" alt="qasimhaidercs" /></a> </p>
 
-- 🔭 I’m currently working on **A BMI Calculator Application**
+- 🔭 I’m currently working on **A Grading Calculator Application**
 
 - 🌱 I’m currently learning **Java's Object Orientated Programming**
 
