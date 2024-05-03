@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qasimhaidercs" alt="qasimhaidercs" /></a> </p>
 
-- 🔭 I’m currently working on **A Currency Converter Application**
+- 🔭 I’m currently working on **A Device Specifications Application**
 
-- 🌱 I’m currently learning **Java's Object Orientated Programming**
+- 🌱 I’m currently learning **HTML5 and CSS**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
